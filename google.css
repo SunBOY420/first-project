@@ -1,0 +1,18 @@
+a{
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.87);
+}
+img#googleappsicon{
+    width: 30px;
+    height: 30px;
+}
+div#toolbox{
+    text-align: right;
+}
+div#centerbox{
+    text-align: center;
+}
+img#googleicon{
+    height: 224px;
+    width: 318px;
+}
