@@ -1,0 +1,24 @@
+h1#welcomeh1{
+    color: rgb(130, 0, 0);
+    text-align: center;
+    font-size: 35px;
+}
+p.mainp{
+    color: violet;
+    font-size: 18px;
+}
+h1.normalh1{
+    color: rgb(130, 0, 0);
+}
+button.buttonsworld{
+    
+    height: 54px;
+    width: 252px;
+    border: none;
+}
+button#high{
+    background-image: url(../img/deep-space-high-definition-star-field-background-starry-outer-space-background-texture-colorful-starry-night-sky-outer-space-blue-111373440.jpg);
+}
+button#cry{
+    background-image: url(../img/preview.jpg);
+}
